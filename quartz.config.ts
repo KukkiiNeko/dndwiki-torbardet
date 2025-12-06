@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "kukkiineko.github.io/dndwiki-torbardet/",
+    locale: "de-DE",
+    baseUrl: "kukkiineko.github.io/dndwiki-torbardet/Tor-B%60Ardet-und-co/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
