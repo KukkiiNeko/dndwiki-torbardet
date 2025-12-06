@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T19:16:16.839+01:00","modified":"2025-12-06T23:40:58.726+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:16:16.839+01:00","modified":"2025-12-06T23:52:05.593+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Nyladrir.png]]
+![[Tor B'Ardet und co/zData/Nyladrir.png|643x322]]
 
 "Der Altdrache der das Ende der Magie herbeiführen wollte"
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:25:30.379+01:00","modified":"2025-12-06T23:38:42.795+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:25:30.379+01:00","modified":"2025-12-06T23:49:56.417+01:00","cssclasses":""}
 ---
 
-![[Armor_bear.avif]]
+![[Armor_bear.avif|542x508]]
 
 "Kaiserdrachen-Schuppenpanzer Version 1.3 in Bärmodifikation und Sonderausführung C"
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:23:38.226+01:00","modified":"2025-12-06T23:38:33.409+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:23:38.226+01:00","modified":"2025-12-06T23:50:10.498+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Stab der ewigen Ergebenheit.png]]
+![[Tor B'Ardet und co/zData/Stab der ewigen Ergebenheit.png|484x607]]
 
 "Eine Waffe, verliehen an Warlocks die ALLES für ihren Pakt gegeben haben"
 

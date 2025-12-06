@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-06T23:40:21.808+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-06T23:50:46.061+01:00","cssclasses":""}
 ---
 
 
-![[Tor B'Ardet und co/zData/Balfour.jpg]]
+![[Tor B'Ardet und co/zData/Balfour.jpg|556x716]]
 
 Anführer des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] und Mitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]]. Auch genannt "Sonnenmähne"
 

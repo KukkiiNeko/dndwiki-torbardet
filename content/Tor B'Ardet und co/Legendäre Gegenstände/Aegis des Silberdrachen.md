@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:20:01.333+01:00","modified":"2025-12-06T23:39:11.071+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:20:01.333+01:00","modified":"2025-12-06T23:48:49.348+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Aegis.webp]]
+![[Tor B'Ardet und co/zData/Aegis.webp|642x642]]
 
 "Ein Schild mit dem Abbild eines silbernen Drachens. Eine tiefe Furche zieht sich durch den gesamten Schild"
 

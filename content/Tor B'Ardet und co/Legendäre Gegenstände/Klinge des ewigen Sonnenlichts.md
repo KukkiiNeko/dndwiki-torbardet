@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-06T23:38:40.198+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-06T23:49:59.412+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Sonnenschwert.jpg]]
+![[Tor B'Ardet und co/zData/Sonnenschwert.jpg|538x538]]
 
 "Eine Klinge aus purem Sonnenlicht"
 
