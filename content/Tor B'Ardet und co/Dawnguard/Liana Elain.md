@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-12-05T18:09:05.271+01:00","modified":"2025-12-06T23:02:14.302+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:09:05.271+01:00","modified":"2025-12-06T23:30:16.966+01:00","cssclasses":""}
 ---
 
 Liana `Kaltschuppe` Elain![[Tor B'Ardet und co/zData/Frieren.webp]]
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Auch genannt "Kaltschuppe"
 
-Oberste Gelehrte des [[Tor B'Ardet und co/Der Orden/Orden der Morgenroete]] und führende Ikone auf dem Feld der Eismagie.
+Oberste Gelehrte des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] und führende Ikone auf dem Feld der Eismagie.
 
 Liana wird nachgesagt das ihre Magie ebenso kalt ist wie ihr Herz. Abgesehen von den Mitgliedern der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] pflegt sie kaum regelmäßigen Kontakt zu anderen Bewohnern. 
 
