@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:35.859+01:00","modified":"2025-12-06T23:40:11.244+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:35.859+01:00","modified":"2025-12-07T00:04:33.880+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Garn.png]]
+![[Tor B'Ardet und co/zData/Garn.png|253x404]]
 
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Auch genannt "Schwarzschwinge"
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-06T23:38:14.912+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-07T00:07:53.589+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Crowley.jpg]]
+![[Tor B'Ardet und co/zData/Crowley.jpg|245x245]]
 
 "Ich kämpfe so gut wie ich aussehe"
 

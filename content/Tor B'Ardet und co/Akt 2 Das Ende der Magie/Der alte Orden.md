@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T14:26:30.653+01:00","modified":"2025-12-06T23:41:01.004+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T14:26:30.653+01:00","modified":"2025-12-07T00:02:49.453+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Oathbreaker.webp]]
+![[Tor B'Ardet und co/zData/Oathbreaker.webp|252x356]]
 
 "Ein Oathbreaker-Paladin"
 

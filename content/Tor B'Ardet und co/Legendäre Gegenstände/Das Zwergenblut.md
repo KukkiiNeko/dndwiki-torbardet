@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:31:23.839+01:00","modified":"2025-12-06T23:38:54.911+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:31:23.839+01:00","modified":"2025-12-07T00:06:58.034+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Zwergenkrug.webp]]
+![[Tor B'Ardet und co/zData/Zwergenkrug.webp|252x252]]
 
 "Eine modifizierte Version des Alchemy-Jug. Verwendet von [[Tor B'Ardet und co/Bekannte Gesichter/Orasia Nifis]] um ihren Begleiter Arthur ruhig zu stellen"
 

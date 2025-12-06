@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T19:42:53.756+01:00","modified":"2025-12-06T23:40:37.926+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:42:53.756+01:00","modified":"2025-12-07T00:03:35.624+01:00","cssclasses":""}
 ---
 
 Otter?
-![[Tor B'Ardet und co/zData/Elandor.webp]]
+![[Tor B'Ardet und co/zData/Elandor.webp|246x246]]
 
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]")
 

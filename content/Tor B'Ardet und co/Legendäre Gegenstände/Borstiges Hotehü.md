@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-06T23:49:42.940+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-07T00:06:46.068+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Besen.jpg|604x607]]
+![[Tor B'Ardet und co/zData/Besen.jpg|250x251]]
 
 "Das bevorzugte Fortbewegungssmittel von Lady Liana"
 

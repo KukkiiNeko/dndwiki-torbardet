@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T01:42:48.583+01:00","modified":"2025-12-06T23:38:51.699+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:42:48.583+01:00","modified":"2025-12-07T00:07:01.335+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Fleischerhaken.png]]
+![[Tor B'Ardet und co/zData/Fleischerhaken.png|246x369]]
 
 "Gefürchtet in der Arena und über ihre Mauern hinaus"
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T14:12:01.342+01:00","modified":"2025-12-06T23:52:13.265+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T14:12:01.342+01:00","modified":"2025-12-07T00:02:32.985+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Vallaki.webp|653x402]]
+![[Tor B'Ardet und co/zData/Vallaki.webp|700x431]]
 
 "Vallaki vor derr Zerstörung. Die Karte wurde später aus den Trümmern der Stadt geborgen"
 

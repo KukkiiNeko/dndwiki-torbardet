@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T21:19:08.518+01:00","modified":"2025-12-06T23:50:14.661+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T21:19:08.518+01:00","modified":"2025-12-07T00:06:17.363+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Orden.jpg|566x566]]
+![[Tor B'Ardet und co/zData/Orden.jpg|244x244]]
 
 Angeführt von Mitgliedern der [[Tor B'Ardet und co/Dawnguard/Dawnguard]].
 

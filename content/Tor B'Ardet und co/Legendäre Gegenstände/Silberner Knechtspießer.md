@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T02:27:50.876+01:00","modified":"2025-12-06T23:38:35.123+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:27:50.876+01:00","modified":"2025-12-07T00:07:32.835+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Silberner Knechtspießer.webp]]
+![[Tor B'Ardet und co/zData/Silberner Knechtspießer.webp|281x158]]
 
 "Ein einfache Waffe, personalisiert und zu eigen gemacht"
 

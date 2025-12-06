@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T01:43:41.004+01:00","modified":"2025-12-06T23:39:07.946+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:43:41.004+01:00","modified":"2025-12-07T00:06:30.804+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Antimagi.jpeg]]
+![[Tor B'Ardet und co/zData/Antimagi.jpeg|254x254]]
 
 "Die Rüstung des Champion [[Tor B'Ardet und co/Akt 2 Das Ende der Magie/Urgath]] zu Lebzeiten"
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T19:30:52.554+01:00","modified":"2025-12-06T23:50:17.893+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:30:52.554+01:00","modified":"2025-12-07T00:06:13.509+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Eidschwur.jpg|622x400]]
+![[Tor B'Ardet und co/zData/Eidschwur.jpg|248x159]]
 
 "Ein Mitglied des Ordens wird neu vereidigt"
 

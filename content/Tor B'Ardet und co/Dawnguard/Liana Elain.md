@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T18:09:05.271+01:00","modified":"2025-12-06T23:40:02.514+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:09:05.271+01:00","modified":"2025-12-07T00:04:59.873+01:00","cssclasses":""}
 ---
 
-Liana `Kaltschuppe` Elain![[Tor B'Ardet und co/zData/Frieren.webp]]
+![[Tor B'Ardet und co/zData/Frieren.webp|251x152]]
 
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Auch genannt "Kaltschuppe"
 

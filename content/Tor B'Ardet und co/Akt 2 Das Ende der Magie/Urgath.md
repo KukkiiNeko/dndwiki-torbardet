@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T19:16:05.810+01:00","modified":"2025-12-06T23:41:05.859+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:16:05.810+01:00","modified":"2025-12-07T00:08:39.344+01:00","cssclasses":""}
 ---
 
 
-![[Tor B'Ardet und co/zData/Urtagh.jpg]]
+![[Tor B'Ardet und co/zData/Urtagh.jpg|248x351]]
 
 "Champion des alten Ordens"
 

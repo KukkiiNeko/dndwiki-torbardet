@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T01:41:12.631+01:00","modified":"2025-12-06T23:53:15.804+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:41:12.631+01:00","modified":"2025-12-07T00:06:36.488+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Bag of Candys.jpg]]
+![[Tor B'Ardet und co/zData/Bag of Candys.jpg|254x254]]
 
 "Verschiedenste Süßigkeiten in Form von zwanzigseitigen Steinen"
 

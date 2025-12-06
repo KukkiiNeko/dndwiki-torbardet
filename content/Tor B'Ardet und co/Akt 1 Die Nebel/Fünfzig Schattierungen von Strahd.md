@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T19:22:21.556+01:00","modified":"2025-12-06T23:41:45.778+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:22:21.556+01:00","modified":"2025-12-07T00:02:15.555+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/funfzigschatten.png]]
+![[Tor B'Ardet und co/zData/funfzigschatten.png|255x383]]
 # Die geheime Buchsammlung des [[Tor B'Ardet und co/Akt 1 Die Nebel/Graf Strahd von Zarovich]]
 ------------
 ## Kapitel 1

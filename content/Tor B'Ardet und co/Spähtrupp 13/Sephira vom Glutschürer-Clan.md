@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-06T23:38:01.875+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-07T00:08:05.374+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Sephira.png]]
+![[Tor B'Ardet und co/zData/Sephira.png|251x251]]
 
 "Lasst mich doch einfach alle in Ruhe!"
 

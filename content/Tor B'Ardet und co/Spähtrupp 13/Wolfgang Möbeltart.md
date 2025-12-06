@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-06T23:38:06.529+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-07T00:08:09.162+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Wolfgang.jpeg]]
+![[Tor B'Ardet und co/zData/Wolfgang.jpeg|252x252]]
 
 "Die Dinge die uns verbinden werden immer stärker sein als die, die uns entzweien" 
 

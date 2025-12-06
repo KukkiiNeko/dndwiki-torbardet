@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T01:43:49.107+01:00","modified":"2025-12-06T23:39:03.015+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:43:49.107+01:00","modified":"2025-12-07T00:06:39.632+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Blutspeer.png]]
+![[Tor B'Ardet und co/zData/Blutspeer.png|251x372]]
 
 "Nur die würdigen war es erlaubt diese Waffe zu führen"
 
