@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T18:21:00.994+01:00","modified":"2025-12-06T23:02:51.923+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:21:00.994+01:00","modified":"2025-12-06T23:38:10.740+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Opa.png]]
+
 "Riesen-Pimmel"
 
 Opa Hubertus scheint ein älterer Herr zu sein der in den Mächten der Magie geschult ist. 

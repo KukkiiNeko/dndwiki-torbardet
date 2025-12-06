@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-06T14:26:30.653+01:00","modified":"2025-12-06T23:30:12.173+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T14:26:30.653+01:00","modified":"2025-12-06T23:41:01.004+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Oathbreaker.webp]]
+
 "Ein Oathbreaker-Paladin"
 
 Korrumpiert durch seine Führungsebene sorgte der alte Orden beinahe für die Auslöschung der Magie. Angeführt von [[Tor B'Ardet und co/Akt 2 Das Ende der Magie/Urgath]] und 

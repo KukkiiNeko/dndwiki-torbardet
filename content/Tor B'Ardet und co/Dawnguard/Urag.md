@@ -1,9 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-06T23:30:16.986+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-06T23:39:55.234+01:00","cssclasses":""}
 ---
 
 
 ![[Tor B'Ardet und co/zData/urag.png]]
+
 Erster General des Ordens und Mitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]]. Auch genannt "der Unbezwungene"
 
 Reisender Gladiator, welcher in den Arenen des Kontinents sich seinen Namen machte.

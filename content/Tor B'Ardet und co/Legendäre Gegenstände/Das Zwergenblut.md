@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-06T02:31:23.839+01:00","modified":"2025-12-06T23:02:59.568+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:31:23.839+01:00","modified":"2025-12-06T23:38:54.911+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Zwergenkrug.webp]]
+
 "Eine modifizierte Version des Alchemy-Jug. Verwendet von [[Tor B'Ardet und co/Bekannte Gesichter/Orasia Nifis]] um ihren Begleiter Arthur ruhig zu stellen"
 
 Während ihrer Anfangszeit in der Gilde, wurde Orasia ihrem heutigen Partner [[Tor B'Ardet und co/Bekannte Gesichter/Arthur Faser]] vorgestellt und zugeteilt. Der alte Zwergen-Veteran war stets ein etwas mürrischer Geselle, bis zu dem Tag an dem Orasia es schaffte ihren Alchemy-Jug auf der Meta-magischen Ebene so verändern das er statt normalem Bier nur das feinste Zwergenbier ausgab. Dies gilt als ihre größte Errungenschaft auf dem Gebiet der magischen Modifizierung. Zumindest laut aussagen von Arthur. 

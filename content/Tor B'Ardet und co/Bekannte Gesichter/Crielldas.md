@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T19:18:12.139+01:00","modified":"2025-12-06T23:02:05.246+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:18:12.139+01:00","modified":"2025-12-06T23:40:31.456+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Crielldas.jpg]]
+
 "Ehemaliger Sklave von [[Tor B'Ardet und co/Bekannte Gesichter/Bombastos Unvoll]]"
 
 Verheiratet, zwei Kinder

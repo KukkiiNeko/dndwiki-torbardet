@@ -1,9 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:33:22.177+01:00","modified":"2025-12-06T23:30:16.942+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:33:22.177+01:00","modified":"2025-12-06T23:40:48.114+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Orasia.jpg]]
-Angestellter Abenteurer der Gilde von Dor`Langar "Orasia Nifis". Prüferin ersten Ranges. Oft unter dem Spitznamen "Zapfspatz" oder "Ora-Mäuschen" bekannt.
+
+Angestellter Abenteurer der Gilde von Dor'Langar "Orasia Nifis". Prüferin ersten Ranges. Oft unter dem Spitznamen "Zapfspatz" oder "Ora-Mäuschen" bekannt.
 
 Gildenkontakt des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] 
 

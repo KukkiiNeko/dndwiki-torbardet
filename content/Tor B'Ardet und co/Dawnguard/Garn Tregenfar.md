@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:35.859+01:00","modified":"2025-12-06T23:30:41.457+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:35.859+01:00","modified":"2025-12-06T23:40:11.244+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Garn.png]]
+
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Auch genannt "Schwarzschwinge"
 
 Second in Command des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] und ehemaliger Langfinger. Engster Vertrauter von [[Tor B'Ardet und co/Dawnguard/Balfour De'Boule]]

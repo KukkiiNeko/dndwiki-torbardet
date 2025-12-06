@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-06T23:03:01.598+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-06T23:38:59.624+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Besen.jpg]]
+
 "Das bevorzugte Fortbewegungssmittel von Lady Liana"
 
 "Aus den Nebeln hervor stieg sie hinauf, auf einem Besen der selbst eisigsten Winden widerstehen konnte. Auf ihm glitt die Frostprinzession durch den Nachthimmel und ließ selbst die Sterne am Firmament gefrieren"

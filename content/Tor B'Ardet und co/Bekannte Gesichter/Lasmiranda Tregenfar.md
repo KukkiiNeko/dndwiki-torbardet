@@ -1,9 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:11:13.379+01:00","modified":"2025-12-06T23:02:07.199+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:11:13.379+01:00","modified":"2025-12-06T23:40:40.258+01:00","cssclasses":""}
 ---
 
 
 ![[Tor B'Ardet und co/zData/Lasmiranda.webp]]
+
 Frau von Welt und Edelhure. Auch genannt "Die Begehrte"
 
 Mutter von [[Tor B'Ardet und co/Dawnguard/Garn Tregenfar]] und [[Tor B'Ardet und co/Dawnguard/Gorn Tregenfar]]

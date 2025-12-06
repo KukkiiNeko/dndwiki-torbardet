@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-06T01:43:15.884+01:00","modified":"2025-12-06T23:03:00.094+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:43:15.884+01:00","modified":"2025-12-06T23:38:57.262+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Boxhandschuhe.png]]
+
 "Handschuhe aus vergangener Zeit welche dem Träger aussergewöhnliche Kräfte verleihen"
 
 

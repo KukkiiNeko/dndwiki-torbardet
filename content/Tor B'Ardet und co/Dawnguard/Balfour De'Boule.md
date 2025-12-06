@@ -1,9 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-06T23:30:16.947+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-06T23:40:21.808+01:00","cssclasses":""}
 ---
 
 
 ![[Tor B'Ardet und co/zData/Balfour.jpg]]
+
 Anführer des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] und Mitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]]. Auch genannt "Sonnenmähne"
 
 Einst angeklagt wegen Fahnenflucht und dem Verrat am alten Orden, konnte er seinen Namen später reinwaschen nachdem der Altdrache besiegt war. 

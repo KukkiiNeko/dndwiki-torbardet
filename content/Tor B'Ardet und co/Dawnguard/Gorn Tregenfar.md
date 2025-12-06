@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:40.670+01:00","modified":"2025-12-06T23:02:13.293+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:40.670+01:00","modified":"2025-12-06T23:40:08.086+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Gorn.jpg]]
+
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Verstorben.
 
 

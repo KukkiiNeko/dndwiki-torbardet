@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-06T23:31:12.885+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-06T23:38:14.912+01:00","cssclasses":""}
 ---
 
 ![[Tor B'Ardet und co/zData/Crowley.jpg]]
+
 "Ich kämpfe so gut wie ich aussehe"
 
 Ein Tiefling welcher ursprünglich dem [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]] angehörte und seine eigenen Ziele verfolgte.
