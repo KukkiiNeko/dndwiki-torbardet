@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tor B'Ardet","created":"2025-12-06T23:12:13.106+01:00","modified":"2025-12-06T23:31:58.334+01:00","cssclasses":""}
+{"publish":true,"title":"Tor B'Ardet","created":"2025-12-06T23:12:13.106+01:00","modified":"2025-12-06T23:54:26.892+01:00","cssclasses":""}
 ---
 
 Shalömchen ihr FIcker
@@ -14,4 +14,3 @@ FETTEN DANK an Neko die mal wieder den überwiegenden Teil der Technik übernomm
 in dem Sinne. Kuss auf Nuss. 
 
 Euer Wolfi
-Ficker
