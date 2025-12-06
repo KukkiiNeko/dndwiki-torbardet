@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "DnD Wiki - Tor B'Adet",
+    pageTitle: "DnD Wiki - Tor B'Ardet",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
