@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-06T22:28:08.343+01:00","modified":"2025-12-07T00:06:02.791+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T22:28:08.343+01:00","modified":"2025-12-07T00:14:47.326+01:00","cssclasses":""}
 ---
 
-![[Das Lager der Glutschuerer.avif|303x173]]
+![[Tor B'Ardet und co/zData/Wüstenlager.jpg|261x277]]
 
 In den endlosen Wüsten Eternias findet sich das Lager der Glutschuerer verborgen. 
 
