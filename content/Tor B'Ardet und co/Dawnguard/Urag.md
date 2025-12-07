@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-07T12:32:47.126+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-07T16:49:58.420+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -8,7 +8,7 @@
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 
-> | Am Leben | Faungart | 
+> | Am Leben | [[Tor B'Ardet und co/Der Kontinent/Reiche/Faungart/Faungart]] | 
 >
 > 
 > 
