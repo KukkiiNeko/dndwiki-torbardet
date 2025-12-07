@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-07T13:13:52.908+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-07T17:03:10.810+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -14,6 +14,7 @@
 > 
 
 
+"Mitglied des [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]]"
 
 "Die Dinge die uns verbinden werden immer stärker sein als die, die uns entzweien" 
 

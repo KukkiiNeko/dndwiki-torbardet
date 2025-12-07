@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:20:31.272+01:00","modified":"2025-12-07T13:09:36.307+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:20:31.272+01:00","modified":"2025-12-07T17:03:32.712+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -13,9 +13,7 @@
 > 
 > 
 
-
-
-"Blueberry...denken...."
+"Mitglied des [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]]"
 
 Ein Orc mit lila Haut, welcher unverhofft dazugestoßen ist.
 

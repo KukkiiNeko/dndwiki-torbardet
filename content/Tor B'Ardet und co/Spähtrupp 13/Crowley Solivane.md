@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-07T13:10:24.064+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:20:22.134+01:00","modified":"2025-12-07T17:02:29.662+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -14,6 +14,7 @@
 > 
 
 
+"Mitglied des [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]]"
 
 "Ich kämpfe so gut wie ich aussehe"
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-07T16:42:05.648+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-07T17:03:26.839+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -12,6 +12,8 @@
 >
 > 
 > 
+
+"Mitglied des [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]]"
 
 Unbekannterweise verschollen.
 

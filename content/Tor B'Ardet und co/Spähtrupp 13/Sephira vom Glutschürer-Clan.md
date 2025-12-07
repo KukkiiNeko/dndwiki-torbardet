@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-07T13:12:55.094+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-07T17:03:19.865+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -13,7 +13,7 @@
 > 
 > 
 
-
+"Mitglied des [[Tor B'Ardet und co/Spähtrupp 13/Spähtrupp 13]]"
 
 "Lasst mich doch einfach alle in Ruhe!"
 
