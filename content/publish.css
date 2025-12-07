@@ -2437,7 +2437,7 @@ body.theme-dark {
   --nav-item-background-border-color-hover: #652121;
   --nav-item-border-width: 0px;
   --note: #863737; /*#1a1e24;*/
-  --note-rgb: 26, 30, 36;
+  --note-rgb: 134, 55, 55; /*26, 30, 36;*/
   --note-title-border-color: #c14343;
   --outer-bar: #0b0f13;
   --outline-arrow-display: none;
