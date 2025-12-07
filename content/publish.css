@@ -2439,7 +2439,7 @@ body.theme-dark {
   --note: #863737; /*#1a1e24;*/
   --note-rgb: 134, 55, 55; /*26, 30, 36;*/
   --note-title-border-color: #c14343;
-  --outer-bar: #0b0f13;
+  --outer-bar: #863737; /*#0b0f13;*/
   --outline-arrow-display: none;
   --outline-arrow-margin: -16px;
   --outline-arrow-visibility: hidden;
