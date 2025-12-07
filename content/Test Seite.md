@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-07T10:24:13.892+01:00","modified":"2025-12-07T10:26:57.275+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-07T10:24:13.892+01:00","modified":"2025-12-07T10:32:32.674+01:00","cssclasses":""}
 ---
 
 > [!infobox|wtiny]
@@ -16,5 +16,5 @@
 > | Test | Testing |
 > | Test | Testing |
 
-Dieser text wird links gezeigt und es ist ein toller Text, ein guter Text, so einen Text hat es noch nie gegeben.
+Dieser text wird links gezeigt und es ist ein toller Text, ein guter Text, so einen Text hat es noch nie gegeben. Und wird es auch nie mehr geben.
 
