@@ -541,15 +541,15 @@ td {
   padding: 0.4rem 0.7rem;
   &:first-child {
     font-weight: bold;
-    background-color: rgba(134, 55, 55, 0.6);
-    border-bottom: 1px solid rgba(134, 55, 55, 0.6);
+    background-color: var(--table-header-background)/*rgba(134, 55, 55, 0.4)*/;
+    border-bottom: 1px solid var(--table-header-background)/*rgba(134, 55, 55, 0.2)*/;
   }
 }
 
 tr {
-  border-bottom: 1px solid var(--darkgrey);
+  border-bottom: 1px solid var(--outer-bar)/*var(--darkgrey)*/;
   &:nth-child(even) {
-    background-color: var(--darkgrey);
+    background-color: var(--outer-bar)/*var(--darkgrey)*/;
   }
   &:last-child {
     border-bottom: none;
