@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:33:22.177+01:00","modified":"2025-12-07T12:24:06.525+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:33:22.177+01:00","modified":"2025-12-07T20:48:38.234+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -8,14 +8,14 @@
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 
-> | Am Leben | Dor' Langar | 
+> | Am Leben | [[Tor B'Ardet und co/Der Kontinent/Reiche/Faungart/Dor'Langar]] | 
 >
 > 
 > 
 
 
 
-Angestellte Abenteurerin der Gilde von Dor'Langar "Orasia Nifis". Prüferin ersten Ranges. Oft unter dem Spitznamen "Zapfspatz" oder "Ora-Mäuschen" bekannt.
+Angestellte Abenteurerin der Gilde von Dor'Langar "Orasia Nifis". Prüferin ersten Ranges. Von [[Tor B'Ardet und co/Bekannte Gesichter/Arthur Faser]] oft liebevoll  "Zapfspatz" oder "Ora-Mäuschen" genannt.
 
 Gildenkontakt des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] 
 

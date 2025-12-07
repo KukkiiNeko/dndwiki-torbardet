@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:33:35.948+01:00","modified":"2025-12-07T12:21:12.193+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:33:35.948+01:00","modified":"2025-12-07T20:48:49.300+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -8,7 +8,7 @@
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 
-> | Am Leben | Dor'Langar | 
+> | Am Leben | [[Tor B'Ardet und co/Der Kontinent/Reiche/Faungart/Dor'Langar]] | 
 >###### Begleiter
 >![[Tor B'Ardet und co/zData/Arthur Mech.jpg]]
 > 
