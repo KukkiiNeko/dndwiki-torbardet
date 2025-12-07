@@ -7,7 +7,7 @@ on:
  
 env:
 # comfort-smooth
-  THEME_NAME: its-theme
+  THEME_NAME: its-theme.rainbow
  
 permissions:
   contents: read
