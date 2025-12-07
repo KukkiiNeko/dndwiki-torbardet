@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-07T22:03:57.353+01:00","modified":"2025-12-07T22:07:12.256+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-07T22:03:57.353+01:00","modified":"2025-12-07T22:13:10.770+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -13,7 +13,7 @@
 > 
 > 
 
-![[Tor B'Ardet und co/zData/Tor_BArdet 1.jpg|906x680]]
+![[Tor B'Ardet und co/zData/Tor_BArdet 1.jpg|749x562]]
 
 Der Kontinent Tor B’Ardet ist in drei Reiche eingeteilt.
 
