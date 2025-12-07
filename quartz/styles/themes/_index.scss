@@ -254,13 +254,19 @@
   --font-monospace-override: "??" !important;
   --font-monospace-theme: "??" !important;
   --font-normal: 400 !important;
-  --font-print: "its-Bookerly", "Bookerly", Inter, "Arial" !important;
-  --font-print-override: "its-Bookerly", "Bookerly", Inter !important;
+  --font-print: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Microsoft YaHei Light", sans-serif !important;
+  --font-print-override: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Microsoft YaHei Light", sans-serif !important;
   --font-semibold: 600 !important;
   --font-small: 0.95em !important;
   --font-smaller: 0.9em !important;
   --font-smallest: 0.85em !important;
-  --font-text: "its-Bookerly", "Bookerly", Inter !important;
+  --font-text: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Microsoft YaHei Light", sans-serif !important;
   --font-text-override: "??" !important;
   --font-text-size: 16px !important;
   --font-text-theme: "??" !important;
@@ -3452,8 +3458,8 @@ body {
   .callout[data-callout="info"] {
     --callout-color: inherit;
     background-color: light-dark(
-      rgba(8, 109, 221, 0.1),
-      rgba(2, 122, 255, 0.1)
+      rgba(8, 109, 221, 0.4),
+      rgba(2, 122, 255, 0.4)
     );
     mix-blend-mode: normal;
     border: 0px solid
@@ -5188,7 +5194,7 @@ body .callout.callout[data-callout~="infobox"] {
   --callout-color: var(--note, var(--background-primary));
   --callout-padding: 0;
   --callout-content-padding: 5px;
-  --callout-margin: 0 0 0 5px;
+  --callout-margin: 0 5px 0 5px;
   background: var(--note, var(--background-primary));
   --h1-border-line-height: 0;
   --h2-border-line-height: 0;
