@@ -2597,7 +2597,7 @@ body .markdown-rendered a.external-link {
   color: light-dark(rgb(223, 98, 98), rgb(97, 175, 239));
   cursor: pointer;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgb(97, 175, 239);
@@ -2613,7 +2613,7 @@ body .markdown-rendered a.internal-link {
   color: light-dark(rgb(223, 98, 98), rgb(97, 175, 239));
   cursor: pointer;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgb(97, 175, 239);
@@ -2629,7 +2629,7 @@ body .markdown-rendered a.internal-link.is-unresolved {
   color: light-dark(rgb(226, 183, 163), rgb(88, 100, 119));
   cursor: pointer;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgba(186, 64, 64, 0.3);
@@ -2645,7 +2645,7 @@ body .markdown-rendered p {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2661,7 +2661,7 @@ body strong {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 900;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2677,7 +2677,7 @@ body b {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 900;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2693,7 +2693,7 @@ body em {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 900;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2709,7 +2709,7 @@ body i {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 900;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2725,7 +2725,7 @@ body .markdown-rendered mark {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -2741,7 +2741,7 @@ body del {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: line-through 1px solid rgb(188, 202, 216);
@@ -2799,7 +2799,7 @@ body div.multi-select-pill {
   align-items: center;
   background-color: light-dark(rgb(205, 100, 94), rgb(101, 33, 33));
   display: flex;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   margin-inline-start: 0px;
   border: 0px solid light-dark(rgb(205, 100, 94), rgb(101, 33, 33));
@@ -2954,7 +2954,7 @@ body ul > li.task-list-item[data-task="x"] {
 body .markdown-rendered blockquote {
   background-color: light-dark(rgb(250, 242, 233), rgb(13, 16, 20));
   border-inline-start: inherit;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-style: normal;
   padding-bottom: 12px;
   padding-top: 12px;
@@ -2981,7 +2981,7 @@ body .site-body-left-column input.search-bar {
   border-end-start-radius: 0px;
   border-end-end-radius: 0px;
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
 }
 body .search-results {
   background-color: light-dark(rgb(255, 249, 240), rgb(26, 30, 36));
@@ -3001,7 +3001,7 @@ body .search-results > * {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: auto;
   filter: none;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 400;
   outline: inherit;
   text-decoration: none solid rgb(188, 202, 216);
@@ -3418,10 +3418,10 @@ body .math-block > mjx-container.MathJax {
   text-align: center;
   white-space-collapse: break-spaces;
   text-wrap-mode: wrap;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
 }
 body div.math-block > mjx-container.MathJax {
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
 }
 body .math-inline > mjx-container.MathJax > mjx-math {
   font-family: MJXZERO, MJXTEX;
@@ -3429,7 +3429,7 @@ body .math-inline > mjx-container.MathJax > mjx-math {
 body .nav-view-outer .tree-item-self a {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: default;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 500;
   text-decoration: none solid rgb(188, 202, 216);
 }
@@ -3461,7 +3461,7 @@ body
   > .tree-item-self {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: default;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 700;
   text-decoration: none solid rgb(188, 202, 216);
 }
@@ -3474,7 +3474,7 @@ body
   > .tree-item-self {
   color: light-dark(rgb(65, 47, 47), rgb(188, 202, 216));
   cursor: default;
-  font-family: its-Bookerly, Bookerly, Inter;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif;
   font-weight: 700;
   text-decoration: none solid rgb(188, 202, 216);
 }
