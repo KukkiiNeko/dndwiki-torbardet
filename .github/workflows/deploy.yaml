@@ -6,7 +6,8 @@ on:
       - v4
  
 env:
-  THEME_NAME: comfort-smooth
+# comfort-smooth
+  THEME_NAME: Obsidian--ITS-Theme
  
 permissions:
   contents: read
