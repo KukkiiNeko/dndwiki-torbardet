@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:19:40.347+01:00","modified":"2025-12-07T15:09:57.031+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:19:40.347+01:00","modified":"2025-12-07T17:00:54.522+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -8,7 +8,7 @@
 > ###### Info 
  >| Status | Mitglieder | 
  >| ---- | ---- | 
-> | Aktiv | 6* (Zwei Mitglieder werden vermisst) | 
+> | Aktiv | 8* (Zwei Mitglieder werden vermisst) | 
 >
 > 
 > 
@@ -20,7 +20,7 @@ Die Dawnguard begann als einfache Truppe von zusammengewürfelten Abenteurern. B
 
 Kurz nachdem dieser Trupp, ursprünglich auch bekannt unter dem Namen [[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']] , die Machenschaften eines Kultes aufdeckte, verschwanden sie für 2 Jahre von der Bildfläche. Es wurde gemunkelt das die Ansässige Kirche etwas damit zu tun hatte, dies konnte jedoch nie belegt werden, ebenso wie Verbindung zwischen einem Brand in einem Waisenhaus und besagter Söldnertruppe.
 
-In den zwei Jahren ihrer Abwesenheit vermochte es die Gruppe den mächtigen [[Tor B'Ardet und co/Akt 1 Die Nebel/Graf Strahd von Zarovich]] zu vernichten und seine Herrschaft im [[Tor B'Ardet und co/Akt 1 Die Nebel/Nebel von Barovia]] zu beenden. Dort schloß sich ihnen auch [[Tor B'Ardet und co/Dawnguard/Balfour De'Boule]] an. Wie es ihnen Gelungen ist wurde nicht überliefert, jedoch konnte nachgewiesen werden, aufgrund von Augenzeugen-Berichten, das die Dawnguard maßgeblich daran beteiligt war. Gildenmeisterin [[Tor B'Ardet und co/Akt 1 Die Nebel/Arabell]] sei selbst vor Ort gewesen und habe die Berichte bestätigt.
+In den zwei Jahren ihrer Abwesenheit vermochte es die Gruppe den mächtigen [[Tor B'Ardet und co/Akt 1 Die Nebel/Graf Strahd von Zarovich]] zu vernichten und seine Herrschaft im [[Tor B'Ardet und co/Akt 1 Die Nebel/Nebel von Barovia]] zu beenden. Dort schloß sich ihnen auch [[Tor B'Ardet und co/Dawnguard/Balfour De'Boule]] an. Wie es ihnen Gelungen ist wurde nicht überliefert, jedoch konnte nachgewiesen werden, aufgrund von Augenzeugen-Berichten, das die Dawnguard maßgeblich daran beteiligt war. Gildenmeisterin [[Tor B'Ardet und co/Bekannte Gesichter/Arabell]] sei selbst vor Ort gewesen und habe die Berichte bestätigt.
 
 Nach ihrer Rückkehr begann eine düstere Zeit für die Mitglieder der Truppe. [[Tor B'Ardet und co/Dawnguard/Balfour De'Boule]] wurde der Fahnenflucht angeklagt und nach einem "Trial by Combat" zum Tode verurteilt. Nach einer Rettungsaktion durch [[Tor B'Ardet und co/Dawnguard/Criella]] konnten beide flüchten und zu ihrer Truppe zurückkehren. Genauere Details zu den Umständen wie sie entkommen konnten, ist nicht bekannt. Sämtliche Dokumente hierzu wurden bei der Übernahme und [[Tor B'Ardet und co/Der Orden/Neugründung des Ordens]] vernichtet. De`Boule verweigert hierzu auch weiterhin die Aussage.
 
