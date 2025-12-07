@@ -1,8 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-05T19:16:16.839+01:00","modified":"2025-12-07T00:08:44.131+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:16:16.839+01:00","modified":"2025-12-07T12:12:04.146+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Nyladrir.png|280x140]]
+> [!infobox|ws-small] 
+> # Nyladrir
+> ![[Tor B'Ardet und co/zData/Nyladrir.png]] 
+> ###### Stats 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Verstorben | ??? | 
+> 
+
+Dieser text wird links gezeigt![[Tor B'Ardet und co/zData/Nyladrir.png|280x140]]
 
 "Der Altdrache der das Ende der Magie herbeiführen wollte"
 

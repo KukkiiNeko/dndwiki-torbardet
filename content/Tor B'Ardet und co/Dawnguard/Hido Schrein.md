@@ -1,9 +1,20 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:29.687+01:00","modified":"2025-12-07T00:04:46.421+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:29.687+01:00","modified":"2025-12-07T12:30:46.338+01:00","cssclasses":""}
 ---
 
 
-![[Tor B'Ardet und co/zData/Hido.png|252x254]]
+> [!infobox|ws-small] 
+> # Hido Schrein
+> ![[Tor B'Ardet und co/zData/Hido.png]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | Faungart | 
+>
+> 
+> 
+
+
 
 Gründungsmitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] (ehemalig "[[Tor B'Ardet und co/Dawnguard/Die 'Killerschweine']]"). Auch genannt "Mondschütze"
 

@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T18:20:31.272+01:00","modified":"2025-12-07T00:07:48.737+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:20:31.272+01:00","modified":"2025-12-07T13:09:36.307+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Blueberry.webp|245x245]]
+> [!infobox|ws-small] 
+> # Blueberry
+> ![[Tor B'Ardet und co/zData/Blueberry.webp]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | ??? | 
+>
+> 
+> 
+
+
 
 "Blueberry...denken...."
 

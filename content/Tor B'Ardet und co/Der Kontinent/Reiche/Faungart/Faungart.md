@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-06T17:41:42.347+01:00","modified":"2025-12-06T23:02:23.438+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T17:41:42.347+01:00","modified":"2025-12-07T12:52:58.232+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Faungart
+> ![[image here]] 
+> ###### Info 
+ >| Status | Einwohner | 
+ >| ---- | ---- | 
+> | Frieden | Testing | 
+>
+> 
+> 
 
 Reich im Westen
 

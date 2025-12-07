@@ -1,9 +1,20 @@
 ---
-{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-07T00:04:19.550+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:08:09.047+01:00","modified":"2025-12-07T12:26:45.649+01:00","cssclasses":""}
 ---
 
+> [!infobox|ws-small] 
+> # Balfour De'Boule
+> ![[Tor B'Ardet und co/zData/Balfour.jpg]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | Faungart | 
+>
+> 
+> 
 
-![[Tor B'Ardet und co/zData/Balfour.jpg|254x327]]
+
+
 
 Anführer des [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] und Mitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]]. Auch genannt "Sonnenmähne"
 

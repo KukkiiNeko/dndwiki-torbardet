@@ -1,8 +1,16 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:56.020+01:00","modified":"2025-12-07T00:02:21.681+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:56.020+01:00","modified":"2025-12-07T12:10:50.985+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Graf Strahd.jpeg|249x302]]
+> [!infobox|ws-small] 
+> # Name 
+> ![[Tor B'Ardet und co/zData/Graf Strahd.jpeg]] 
+> ###### Stats 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Verstorben | Barovia | 
+> 
+
 
 Graf Strahd von Zarovich war ein mächtiger, vampirischer Fürst und der dunkle Herrscher von Barovia. 
 

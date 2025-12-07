@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:14.231+01:00","modified":"2025-12-06T23:02:54.736+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:14.231+01:00","modified":"2025-12-07T13:09:05.320+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Bierodorf Hopfingen
+> ![[image here]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Unbekannt | ??? | 
+>
+> 
+> 
 
 Alkoholiker, verschollen
 

@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-07T00:08:05.374+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:21:47.243+01:00","modified":"2025-12-07T13:12:55.094+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Sephira.png|251x251]]
+> [!infobox|ws-small] 
+> # Sephira vom Glutschürer-Clan
+> ![[Tor B'Ardet und co/zData/Sephira.png]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | [[Tor B'Ardet und co/Der Kontinent/Reiche/Eternia/Das Lager der Glutschürer]] | 
+>
+> 
+> 
+
+
 
 "Lasst mich doch einfach alle in Ruhe!"
 

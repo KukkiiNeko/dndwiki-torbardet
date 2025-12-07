@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T02:25:30.379+01:00","modified":"2025-12-07T00:12:47.216+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:25:30.379+01:00","modified":"2025-12-07T13:04:40.487+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Bärenrüstung.jpeg|244x244]]
+> [!infobox|ws-small] 
+> # Kaiserdrachen-Schuppenpanzer
+> ![[Tor B'Ardet und co/zData/Bärenrüstung.jpeg]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Dawnguard/Bärtram Bärtholomäus Bär]] | 
+>
+> 
+> 
+
+
 
 "Kaiserdrachen-Schuppenpanzer Version 1.3 in Bärmodifikation und Sonderausführung C"
 

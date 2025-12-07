@@ -1,9 +1,20 @@
 ---
-{"publish":true,"created":"2025-12-05T18:11:13.379+01:00","modified":"2025-12-07T00:03:54.232+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:11:13.379+01:00","modified":"2025-12-07T12:22:37.288+01:00","cssclasses":""}
 ---
 
+> [!infobox|ws-small] 
+> # Lasmiranda Tregenfar
+> ![[Tor B'Ardet und co/zData/Lasmiranda.webp]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | Faungart | 
+>
+> 
+> 
 
-![[Tor B'Ardet und co/zData/Lasmiranda.webp|165x387]]
+
+
 
 Frau von Welt und Edelhure. Auch genannt "Die Begehrte"
 

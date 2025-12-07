@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T02:20:01.333+01:00","modified":"2025-12-07T00:06:25.785+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:20:01.333+01:00","modified":"2025-12-07T13:05:06.287+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Aegis.webp|249x249]]
+> [!infobox|ws-small] 
+> # Aegis des Silberdrachen
+> ![[Tor B'Ardet und co/zData/Aegis.webp]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Dawnguard/Balfour De'Boule]] | 
+>
+> 
+> 
+
+
 
 "Ein Schild mit dem Abbild eines silbernen Drachens. Eine tiefe Furche zieht sich durch den gesamten Schild"
 

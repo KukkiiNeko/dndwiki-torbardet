@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-07T00:08:09.162+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:22:15.007+01:00","modified":"2025-12-07T13:13:52.908+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Wolfgang.jpeg|252x252]]
+> [!infobox|ws-small] 
+> # Wolfgang Möbeltart
+> ![[Tor B'Ardet und co/zData/Wolfgang.jpeg]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben |[[Tor B'Ardet und co/Der Kontinent/Reiche/Tor Ont/Kloster der vergänglichen Wurzeln]]| 
+>
+> 
+> 
+
+
 
 "Die Dinge die uns verbinden werden immer stärker sein als die, die uns entzweien" 
 

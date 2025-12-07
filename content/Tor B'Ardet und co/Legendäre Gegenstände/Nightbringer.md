@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T01:38:58.504+01:00","modified":"2025-12-07T00:07:26.681+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:38:58.504+01:00","modified":"2025-12-07T13:07:16.165+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Nightbringer.webp|246x246]]
+> [!infobox|ws-small] 
+> # Nightbringer
+> ![[Tor B'Ardet und co/zData/Nightbringer.webp]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Dawnguard/Garn Tregenfar]] | 
+>
+> 
+> 
+
+
 
 "Diese Waffe zieht ihre Energie aus der Nacht und verbreitet die Dunkelheit um sie herum"
 

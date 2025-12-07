@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T01:43:49.107+01:00","modified":"2025-12-07T00:06:39.632+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:43:49.107+01:00","modified":"2025-12-07T13:05:35.284+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Blutspeer.png|251x372]]
+> [!infobox|ws-small] 
+> # Blutspeer der Wachgeister
+> ![[Tor B'Ardet und co/zData/Blutspeer.png]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] | 
+>
+> 
+> 
+
+
 
 "Nur die würdigen war es erlaubt diese Waffe zu führen"
 

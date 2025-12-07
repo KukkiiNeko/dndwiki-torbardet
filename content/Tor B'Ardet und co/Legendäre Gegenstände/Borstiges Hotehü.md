@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-07T00:06:46.068+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:26:01.805+01:00","modified":"2025-12-07T13:05:42.453+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Besen.jpg|250x251]]
+> [!infobox|ws-small] 
+> # Borstiges Hotehü
+> ![[Tor B'Ardet und co/zData/Besen.jpg]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Dawnguard/Liana Elain]] | 
+>
+> 
+> 
+
+
 
 "Das bevorzugte Fortbewegungssmittel von Lady Liana"
 

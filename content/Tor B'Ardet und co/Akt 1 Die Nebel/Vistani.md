@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T14:11:51.751+01:00","modified":"2025-12-07T00:02:43.012+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T14:11:51.751+01:00","modified":"2025-12-07T13:16:03.528+01:00","cssclasses":""}
 ---
 
+> [!infobox|ws-small] 
+> # Vistani
+> ![[Tor B'Ardet und co/zData/Vistani.webp]] 
+> ###### Info 
+ >| Status | Einwohner | 
+ >| ---- | ---- | 
+> | Auf Reisen | ??? | 
+>
+> 
+> 
 
-![[Tor B'Ardet und co/zData/Vistani.webp|253x280]]
+
+
 
 Die Vistani waren ein Volk das in Planwagen und Zelten lebte und dem [[Tor B'Ardet und co/Akt 1 Die Nebel/Graf Strahd von Zarovich]] fürchtete und diente. Erst nach ihrer Befreiung durch die [[Tor B'Ardet und co/Dawnguard/Dawnguard]] konnten sie wieder ein sorgenfreien Leben leben.  Heute sind sie Händler, die in jedem großen Geschäft involviert sind.

@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T00:07:22.184+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T13:06:45.276+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Sonnenschwert.jpg|249x249]]
+> [!infobox|ws-small] 
+> # Klinge des ewigen Sonnenlichts
+> ![[Tor B'Ardet und co/zData/Sonnenschwert.jpg]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Akt 1 Die Nebel/Vistani]] | 
+>
+> 
+> 
+
+
 
 "Eine Klinge aus purem Sonnenlicht"
 

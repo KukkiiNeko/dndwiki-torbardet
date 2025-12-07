@@ -1,9 +1,20 @@
 ---
-{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-07T00:05:28.631+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:10:10.797+01:00","modified":"2025-12-07T12:32:47.126+01:00","cssclasses":""}
 ---
 
+> [!infobox|ws-small] 
+> # Urag
+> ![[Tor B'Ardet und co/zData/urag.png]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | Faungart | 
+>
+> 
+> 
 
-![[Tor B'Ardet und co/zData/urag.png|250x346]]
+
+
 
 Erster General des Ordens und Mitglied der [[Tor B'Ardet und co/Dawnguard/Dawnguard]]. Auch genannt "der Unbezwungene"
 

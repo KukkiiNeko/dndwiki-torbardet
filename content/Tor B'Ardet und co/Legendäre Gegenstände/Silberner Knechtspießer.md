@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-06T02:27:50.876+01:00","modified":"2025-12-07T00:07:32.835+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:27:50.876+01:00","modified":"2025-12-07T13:07:30.940+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Silberner Knechtspießer
+> ![[image here]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Dawnguard/Liana Elain]] | 
+>
+> 
+> 
 
 ![[Tor B'Ardet und co/zData/Silberner Knechtspießer.webp|281x158]]
 

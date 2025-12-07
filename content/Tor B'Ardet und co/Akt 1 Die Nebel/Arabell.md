@@ -1,9 +1,15 @@
 ---
-{"publish":true,"created":"2025-12-05T18:11:00.439+01:00","modified":"2025-12-07T00:02:09.260+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:11:00.439+01:00","modified":"2025-12-07T12:10:58.794+01:00","cssclasses":""}
 ---
 
-
-![[Tor B'Ardet und co/zData/Arabell.jpg|249x382]]
+> [!infobox|ws-small] 
+> # Arabell 
+> ![[Tor B'Ardet und co/zData/Arabell.jpg]]
+> ###### Info 
+ >| Status | Herkunft |
+ >| ---- | ---- | 
+> | Am Leben | Barovia |
+>
 
 Mädchen aus den Nebeln. Angehörige der [[Tor B'Ardet und co/Akt 1 Die Nebel/Vistani]].
 

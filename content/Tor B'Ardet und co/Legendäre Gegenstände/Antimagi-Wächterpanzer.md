@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T01:43:41.004+01:00","modified":"2025-12-07T00:06:30.804+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:43:41.004+01:00","modified":"2025-12-07T13:05:20.400+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Antimagi.jpeg|254x254]]
+
+> [!infobox|ws-small] 
+> # Antimagi-Wächterpanzer
+> ![[Tor B'Ardet und co/zData/Antimagi.jpeg]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | In Besitz | [[Tor B'Ardet und co/Der Orden/Orden der Morgenröte]] | 
+>
+> 
+> 
+
 
 "Die Rüstung des Champion [[Tor B'Ardet und co/Akt 2 Das Ende der Magie/Urgath]] zu Lebzeiten"
 

@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T18:21:00.994+01:00","modified":"2025-12-07T00:07:58.050+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:21:00.994+01:00","modified":"2025-12-07T13:11:46.018+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Opa.png|288x165]]
+> [!infobox|ws-small] 
+> # Opa 'Hubertus'
+> ![[Tor B'Ardet und co/zData/Opa.png]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Am Leben | ??? | 
+>
+> 
+> 
+
+
 
 "Riesen-Pimmel"
 

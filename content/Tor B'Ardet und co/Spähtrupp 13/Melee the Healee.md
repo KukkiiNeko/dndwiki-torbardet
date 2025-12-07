@@ -1,5 +1,16 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-06T23:02:52.836+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-07T13:11:10.590+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Melee the Healee
+> ![[image here]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Unbekannt | ??? | 
+>
+> 
+> 
 
 Unbekannterweise verschollen.

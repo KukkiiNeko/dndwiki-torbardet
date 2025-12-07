@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-06T17:36:38.258+01:00","modified":"2025-12-06T23:02:27.673+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T17:36:38.258+01:00","modified":"2025-12-07T12:46:22.099+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Kristallminen von Tor Norbi'fons
+> ![[image here]] 
+> ###### Info 
+ >| Status | Einwohner | 
+ >| ---- | ---- | 
+> | Test | Testing | 
+>
+> 
+> 
 
 Reich im Osten des Kontinents.
 

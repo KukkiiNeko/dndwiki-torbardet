@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-06T22:22:49.002+01:00","modified":"2025-12-07T00:05:54.157+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T22:22:49.002+01:00","modified":"2025-12-07T12:39:11.421+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Kloster der vergänglichen Wurzeln
+> ![[Tor B'Ardet und co/zData/Kloster der vergaenglichen Wurzeln.jpg]] 
+> ###### Info 
+ >| Status | Einwohner | 
+ >| ---- | ---- | 
+> | Verlassen | ??? | 
+>
+> 
+> 
 
 ![[Tor B'Ardet und co/zData/Kloster der vergaenglichen Wurzeln.jpg|252x178]]
 

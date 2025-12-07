@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-06T17:39:35.311+01:00","modified":"2025-12-06T23:02:20.224+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T17:39:35.311+01:00","modified":"2025-12-07T12:53:02.340+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Eternia
+> ![[image here]] 
+> ###### Info 
+ >| Status | Einwohner | 
+ >| ---- | ---- | 
+> | Frieden | Testing | 
+>
+> 
+> 
 
 Im Süden von Tor B’Ardet befinden sich die Reste von Eternia. Nach der Erbauung des Mauerwerkes durch die Königsfamilien, war Eternia von dem Handel mit anderen Ländern, den Tourismus und dem Fischfang abhängig. Das Reich war durch seine Kultur, den Fortschritt, den Gelehrten und deren Weisheiten gesegnet. Durch den Fokus auf die Lehren der Magie und der Wissenschaft kamen viele Besucher und Studenten nach Eternia.
 

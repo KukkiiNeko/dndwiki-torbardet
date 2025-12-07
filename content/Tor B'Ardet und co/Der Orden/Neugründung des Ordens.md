@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T19:30:52.554+01:00","modified":"2025-12-07T00:06:13.509+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:30:52.554+01:00","modified":"2025-12-07T12:52:12.709+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Eidschwur.jpg|248x159]]
+> [!infobox|ws-small] 
+> # Neugründung des Ordens
+> ![[Tor B'Ardet und co/zData/Eidschwur.jpg]] 
+> ###### Info 
+ >| Status | Neue Mitglieder | 
+ >| ---- | ---- | 
+> | Abgeschlossen | Ja | 
+>
+> 
+> 
+
+
 
 "Ein Mitglied des Ordens wird neu vereidigt"
 

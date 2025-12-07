@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T01:32:06.298+01:00","modified":"2025-12-07T00:06:10.113+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:32:06.298+01:00","modified":"2025-12-07T12:50:51.014+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/hell.png|241x284]]
+> [!infobox|ws-small] 
+> # Höllentaucher
+> ![[Tor B'Ardet und co/zData/hell.png]] 
+> ###### Info 
+ >| Status | Mitglieder | 
+ >| ---- | ---- | 
+> | aktiv | 1000~ | 
+>
+> 
+> 
+
+
 
 Der Kreuzzug in die Höllen ist der Versuch in die tiefsten Ebenen der Hölle vorzudringen um die verlorenen Mitglieder der [[Tor B'Ardet und co/Dawnguard/Dawnguard]] zurückzuholen.
 

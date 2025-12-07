@@ -1,9 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-05T19:16:05.810+01:00","modified":"2025-12-07T00:08:39.344+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:16:05.810+01:00","modified":"2025-12-07T12:14:43.567+01:00","cssclasses":""}
 ---
 
+> [!infobox|ws-small] 
+> # Urgath
+> ![[Tor B'Ardet und co/zData/Urtagh.jpg]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Verstorben | Tor B' Ardet | 
 
-![[Tor B'Ardet und co/zData/Urtagh.jpg|248x351]]
+> 
+> 
 
 "Champion des alten Ordens"
 

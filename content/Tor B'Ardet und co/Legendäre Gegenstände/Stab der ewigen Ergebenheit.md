@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-06T02:23:38.226+01:00","modified":"2025-12-07T00:07:36.734+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T02:23:38.226+01:00","modified":"2025-12-07T13:08:06.053+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Stab der ewigen Ergebenheit.png|245x307]]
+> [!infobox|ws-small] 
+> # Stab der ewigen Ergebenheit
+> ![[Tor B'Ardet und co/zData/Stab der ewigen Ergebenheit.png]] 
+> ###### Info 
+ >| Status | Besitzer | 
+ >| ---- | ---- | 
+> | Unbekannt | Ehemalig [[Tor B'Ardet und co/Dawnguard/Criella]] | 
+>
+> 
+> 
+
+
 
 "Eine Waffe, verliehen an Warlocks die ALLES für ihren Pakt gegeben haben"
 

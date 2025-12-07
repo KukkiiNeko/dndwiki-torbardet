@@ -1,8 +1,19 @@
 ---
-{"publish":true,"created":"2025-12-05T18:48:19.872+01:00","modified":"2025-12-07T00:14:42.545+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:48:19.872+01:00","modified":"2025-12-07T13:17:02.579+01:00","cssclasses":""}
 ---
 
-![[Tor B'Ardet und co/zData/Nebel neu.webp|264x165]]
+> [!infobox|ws-small] 
+> # Nebel von Barovia
+> ![[Tor B'Ardet und co/zData/Nebel neu.webp]] 
+> ###### Info 
+ >| Status | Herkunft | 
+ >| ---- | ---- | 
+> | Aufgelöst | Barovia | 
+>
+> 
+> 
+
+
 
 
 
