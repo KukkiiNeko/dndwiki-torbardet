@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T22:03:03.259+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T22:08:17.810+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -21,4 +21,4 @@ Diese Waffe wurde früher von [[Tor B'Ardet und co/Dawnguard/Garn Tregenfar]] ge
 
 Das Relikt wurde in den Händen der Bewohner Barovias zurückgelassen um zukünftige Generationen an ihre Befreiung zu erinnern und dem Land den Frieden zu sichern.
 
-Man sagt, berührt diese Klinge einen Vampir, mag die Stelle sich nie regenerieren.
+Man sagt, berührt diese Klinge einen Vampir, mag die Stelle sich nie zu regenerieren.
