@@ -540,12 +540,16 @@ th {
 td {
   padding: 0.4rem 0.7rem;
   &:first-child {
-    font-weight: bold
+    font-weight: bold;
+    background-color: rgba(134, 55, 55, 0.6))
   }
 }
 
 tr {
   border-bottom: 1px solid var(--lightgray);
+  &:nth-child(even) {
+    background-color: var(--lightgray);
+  }
   &:last-child {
     border-bottom: none;
   }
