@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-07T10:24:13.892+01:00","modified":"2025-12-07T10:54:42.392+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-07T10:24:13.892+01:00","modified":"2025-12-07T10:59:48.172+01:00","cssclasses":""}
 ---
 
-> [!infobox|wsmall]+
+> [!infobox|ws-med]+
 > # Was ein Besiger Besen
 > ![[Tor B'Ardet und co/zData/Besen.jpg|cover hsmall]]
 > ###### Stats
