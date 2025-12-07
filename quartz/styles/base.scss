@@ -529,13 +529,19 @@ p {
 }
 
 th {
+  display: none;
+  /*
   text-align: left;
   padding: 0.4rem 0.7rem;
   border-bottom: 2px solid var(--gray);
+  */
 }
 
 td {
   padding: 0.4rem 0.7rem;
+  &:first-child {
+    font-weight: bold
+  }
 }
 
 tr {
