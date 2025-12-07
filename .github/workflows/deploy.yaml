@@ -7,7 +7,7 @@ on:
  
 env:
 # comfort-smooth
-  THEME_NAME: its-theme.rainbow
+  THEME_NAME: its-theme.ttrpg-dnd
  
 permissions:
   contents: read
