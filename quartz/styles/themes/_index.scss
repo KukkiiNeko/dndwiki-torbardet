@@ -1415,7 +1415,7 @@
   --bold-weight: 900 !important;
   --border-width: 1px !important;
   --button-radius: 0 !important;
-  --callout-blend-mode: lighten;
+  --callout-blend-mode: darken !important; /*lighten;*/
   --callout-border-opacity: 0.25;
   --callout-border-width: 0px;
   --callout-bug: 251, 70, 76;
@@ -5719,7 +5719,7 @@ body .callout[data-callout~="cards"] {
   --callout-icon: layout-dashboard;
   --callout-padding: 0;
   --callout-content-padding: 0px;
-  --callout-blend-mode: normal;
+  --callout-blend-mode: darken; /*normal;*/
   --callout-cards-columns: 3;
   --callout-cards-gap: 5px;
   box-shadow: none;
@@ -7735,7 +7735,7 @@ body
 }
 
 body .callout.callout.callout {
-  --callout-blend-mode: normal;
+  --callout-blend-mode: darken;/*normal;*/
   margin: var(--callout-margin);
   z-index: 1;
   position: relative;
