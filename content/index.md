@@ -1,9 +1,10 @@
 ---
-{"publish":true,"title":"Tor B'Ardet","created":"2025-12-06T23:12:13.106+01:00","modified":"2025-12-07T22:16:53.174+01:00","cssclasses":""}
+{"publish":true,"title":"Tor B'Ardet","created":"2025-12-06T23:12:13.106+01:00","modified":"2025-12-07T22:19:15.228+01:00","cssclasses":""}
 ---
 
 > [!warning] Disclaimer
 > Nutzung ist auf eigene Gefahr und der DM kann so viel Retconen und zensieren sowie Zeitverzehrungen machen wie er in der Woche kacken geht. 
+> 
 > ~ Leo Ichgehoftscheißen Notis
 
 
