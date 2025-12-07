@@ -3415,8 +3415,8 @@ body {
   .callout[data-callout="note"] {
     --callout-color: inherit;
     background-color: light-dark(
-      rgba(8, 109, 221, 0.1),
-      rgba(2, 122, 255, 0.1)
+      rgba(8, 109, 221, 0.4),
+      rgba(2, 122, 255, 0.4)
     );
     mix-blend-mode: normal;
     border: 0px solid
@@ -5216,9 +5216,12 @@ body .callout.callout[data-callout~="infobox"] {
 }
 
 body .callout.callout[data-callout~="infobox"] > .callout-title {
+  display: none;
+  /*
   justify-content: center;
   align-items: center;
   align-self: center;
+  */
 }
 
 body
