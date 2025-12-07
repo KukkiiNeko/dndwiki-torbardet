@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-05T19:22:21.556+01:00","modified":"2025-12-07T15:20:14.430+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T19:22:21.556+01:00","modified":"2025-12-07T15:25:05.712+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
-> # Name 
+> # Fünfzig Schattierungen von Strahd
 > ![[Tor B'Ardet und co/zData/funfzigschatten.png]] 
 > ###### Stats 
  >| Status | Author | 
