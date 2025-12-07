@@ -1415,7 +1415,7 @@
   --bold-weight: 900 !important;
   --border-width: 1px !important;
   --button-radius: 0 !important;
-  --callout-blend-mode: lighten;
+  --callout-blend-mode: normal !important;
   --callout-border-opacity: 0.25;
   --callout-border-width: 0px;
   --callout-bug: 251, 70, 76;
@@ -7736,7 +7736,7 @@ body
 }
 
 body .callout.callout.callout {
-  --callout-blend-mode: normal;
+  --callout-blend-mode: normal !important;
   margin: var(--callout-margin);
   z-index: 1;
   position: relative;
