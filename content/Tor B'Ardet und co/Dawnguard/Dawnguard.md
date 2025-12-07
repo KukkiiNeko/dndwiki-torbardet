@@ -1,6 +1,17 @@
 ---
-{"publish":true,"created":"2025-12-05T18:19:40.347+01:00","modified":"2025-12-06T23:30:41.452+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:19:40.347+01:00","modified":"2025-12-07T13:53:28.583+01:00","cssclasses":""}
 ---
+
+> [!infobox|ws-small] 
+> # Dawnguard
+> ![[Unbenannt.jpg]] 
+> ###### Info 
+ >| Status | Mitglieder | 
+ >| ---- | ---- | 
+> | Aktiv | 6* (Zwei Mitglieder werden vermisst) | 
+>
+> 
+> 
 
 
 

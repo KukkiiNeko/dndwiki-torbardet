@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-07T13:11:10.590+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:26.055+01:00","modified":"2025-12-07T13:48:50.060+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -14,3 +14,5 @@
 > 
 
 Unbekannterweise verschollen.
+
+Der Kleriker des Spähtrupps. Verschwand eines Tages auf mysteriöse Art und Weise
