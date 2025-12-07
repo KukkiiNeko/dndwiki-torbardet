@@ -5394,7 +5394,7 @@ body
   margin: 0;
   padding: 2px;
   color: var(--text-normal);
-  background: var(--outer-bar, var(--background-secondary));
+  background: var(--outer-bar/*, var(--background-secondary)*/);
 }
 
 body .callout.callout[data-callout~="infobox"] .internal-embed,
@@ -5425,7 +5425,7 @@ body
   > .callout[data-callout~="infobox"]
   > .callout-title {
   color: var(--text-normal);
-  background: var(--outer-bar, var(--background-secondary));
+  background: var(--outer-bar/*, var(--background-secondary)*/);
   border: 1px solid var(--table, var(--background-modifier-border));
   border-bottom: none;
 }
