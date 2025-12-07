@@ -7,7 +7,7 @@ on:
  
 env:
 # comfort-smooth
-  THEME_NAME: its-theme.ttrpg-dnd
+  THEME_NAME: its-theme.ttrpg-pathfinder-remastered
  
 permissions:
   contents: read
