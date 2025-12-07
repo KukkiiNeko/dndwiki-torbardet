@@ -2446,7 +2446,7 @@ body.theme-dark {
   --outline-symbol: "H";
   --outline-symbol-padding-right: 4px;
   --pane-background: transparent;
-  --popover-background: #1a1e24;
+  --popover-background: #863737; /*#1a1e24;*/
   --popover-border: 3px solid #0000008c;
   --progress: #863737;
   --progress-bg: #252c36;
