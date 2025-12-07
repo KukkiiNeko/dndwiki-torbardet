@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T13:06:45.276+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T01:44:52.714+01:00","modified":"2025-12-07T22:03:03.259+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
 > # Klinge des ewigen Sonnenlichts
-> ![[Tor B'Ardet und co/zData/Sonnenschwert.jpg]] 
+> ![[Tor B'Ardet und co/zData/Sonnenschwert.png]]
 > ###### Info 
  >| Status | Besitzer | 
  >| ---- | ---- | 
