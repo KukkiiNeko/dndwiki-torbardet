@@ -544,9 +544,9 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--gray)/*var(--darkgrey)*/;
+  border-bottom: 1px solid var(--darkgrey)/*var(--lightgrey)*/;
   &:nth-child(even) {
-    background-color: var(--gray)/*var(--darkgrey)*/;
+    background-color: var(--darkgrey)/*var(--lightgrey)*/;
   }
   &:last-child {
     border-bottom: none;
