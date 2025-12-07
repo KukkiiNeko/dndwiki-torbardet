@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:45.192+01:00","modified":"2025-12-07T13:49:40.986+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:45.192+01:00","modified":"2025-12-07T16:23:53.596+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
 > # Ganjalf the Whey
-> ![[image here]] 
+> ![[Tor B'Ardet und co/zData/Ganjalf.jpg]] 
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 

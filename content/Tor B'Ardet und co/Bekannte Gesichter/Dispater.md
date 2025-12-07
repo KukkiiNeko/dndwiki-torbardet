@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-06T15:01:11.590+01:00","modified":"2025-12-07T12:20:52.469+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T15:01:11.590+01:00","modified":"2025-12-07T16:16:53.837+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -16,3 +16,6 @@
 
 
 Dispater war der Herr von Dis und ein Erzteufel, dessen extreme Wachsamkeit beinahe die Verkörperung von Vorsicht war. Der weltgewandte Eiserne Herzog regierte die Eiserne Stadt von seinem Eisernen Turm aus und war legendär für seine uneinnehmbaren Verteidigungsanlagen.
+
+
+Hat großes Interesse an [[Tor B'Ardet und co/Spähtrupp 13/Wolfgang Möbeltart]] gefunden und würde ihn gerne in seine Kammer zerren.

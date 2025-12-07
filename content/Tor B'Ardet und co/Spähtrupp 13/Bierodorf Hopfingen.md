@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-05T18:26:14.231+01:00","modified":"2025-12-07T13:50:29.279+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-05T18:26:14.231+01:00","modified":"2025-12-07T16:21:36.237+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
 > # Bierodorf Hopfingen
-> ![[image here]] 
+> ![[Tor B'Ardet und co/zData/Bierodorf.jpg|471x362]] 
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 

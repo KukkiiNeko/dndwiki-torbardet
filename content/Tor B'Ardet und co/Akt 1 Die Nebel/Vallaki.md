@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-06T14:12:01.342+01:00","modified":"2025-12-07T13:16:21.124+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-06T14:12:01.342+01:00","modified":"2025-12-07T16:12:16.601+01:00","cssclasses":""}
 ---
 
 > [!infobox|ws-small] 
@@ -8,7 +8,7 @@
 > ###### Info 
  >| Status | Herkunft | 
  >| ---- | ---- | 
-> | Test | Testing | 
+> | Im Wiederaufbau | ??? | 
 >
 > 
 > 
