@@ -97,7 +97,7 @@
   --blockquote-background-color: #faf2e9 !important;
   --blockquote-border-color: #f6e3cd !important;
   --blockquote-border-thickness: 7px !important;
-  --blockquote-font-style: "its-Bookerly", "Bookerly", Inter !important;
+  --blockquote-font-style: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --bold-modifier: 500 !important;
   --bold-weight: 900 !important;
   --border-width: 1px !important;
@@ -229,7 +229,7 @@
   --embed-padding: 0 10px 0 24px !important;
   --file-folding-offset: 24px !important;
   --file-header-border: 1px solid transparent !important;
-  --file-header-font: "its-Bookerly", "Bookerly", Inter !important;
+  --file-header-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --file-header-font-size: 15px !important;
   --file-header-font-weight: 600 !important;
   --file-header-justify: center !important;
@@ -241,10 +241,10 @@
   --focus-ring-outline: 2px solid light-dark(#0060df, #0df) !important;
   --font-black: 900 !important;
   --font-bold: 700 !important;
-  --font-default: "its-Bookerly", "Bookerly", Inter !important;
+  --font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-extrabold: 800 !important;
   --font-extralight: 200 !important;
-  --font-interface: "its-Bookerly", "Bookerly", Inter !important;
+  --font-interface: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-interface-override: "??" !important;
   --font-interface-theme: "??" !important;
   --font-light: 300 !important;
@@ -460,7 +460,7 @@
   --metadata-input-background: transparent !important;
   --metadata-input-background-active: #fae0be60 !important;
   --metadata-input-background-hover: transparent !important;
-  --metadata-input-font: "its-Bookerly", "Bookerly", Inter !important;
+  --metadata-input-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --metadata-input-font-size: 0.9em !important;
   --metadata-input-height: 28px !important;
   --metadata-input-longtext-lines: 3 !important;
@@ -468,7 +468,7 @@
   --metadata-label-background: transparent !important;
   --metadata-label-background-active: #fae0be60 !important;
   --metadata-label-background-hover: transparent !important;
-  --metadata-label-font: "its-Bookerly", "Bookerly", Inter !important;
+  --metadata-label-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --metadata-label-font-size: 0.9em !important;
   --metadata-label-text-color: #697580 !important;
   --metadata-label-text-color-hover: #697580 !important;
@@ -697,7 +697,7 @@
   --table-header-border-color: #fff9f0 !important;
   --table-header-border-width: 1px !important;
   --table-header-color: #e5ebee !important;
-  --table-header-size: "its-Bookerly", "Bookerly", Inter !important;
+  --table-header-size: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --table-header-weight: 700 !important;
   --table-line-height: 1.3em !important;
   --table-row-alt-background: #fae0be60 !important;
@@ -853,7 +853,7 @@
   --h6-border-color: #a4aec2 !important;
   --r-heading-color: #c14343 !important;
   --r-heading-text-transform: capitalize !important;
-  --r-main-font: "its-Bookerly", "Bookerly", Inter !important;
+  --r-main-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --folder-icon: "" !important;
   --kanban-lane-background: #f3e6d2 !important;
   --kanban-lane-border: 3px solid #fbb4577e !important;
@@ -1236,7 +1236,7 @@
   --statblock-box-shadow-color: #fbb4577e !important;
   --statblock-box-shadow-x-offset: 0 !important;
   --statblock-box-shadow-y-offset: 0 !important;
-  --statblock-content-font: "its-Bookerly", "Bookerly", Inter !important;
+  --statblock-content-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --statblock-content-font-size: 16px !important;
   --statblock-font-color: #412f2f !important;
   --statblock-heading-font: "its-Draconis", "Draconis", Inter !important;
@@ -1291,7 +1291,7 @@
   --table-header-text-color: #a35158 !important;
   --table-row-edit-font-size: 0.95em !important;
   --tag: #cd645e !important;
-  --tag-font: "its-Bookerly", "Bookerly", Inter !important;
+  --tag-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --tall: 700px !important;
   --td: #fae0be60 !important;
   --text-dl: #e5ebee !important;
@@ -1410,7 +1410,7 @@
   --blockquote-background-color: #0d1014 !important;
   --blockquote-border-color: #252c36 !important;
   --blockquote-border-thickness: 7px !important;
-  --blockquote-font-style: "its-Bookerly", "Bookerly", Inter !important;
+  --blockquote-font-style: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --bold-modifier: 500 !important;
   --bold-weight: 900 !important;
   --border-width: 1px !important;
@@ -1542,7 +1542,7 @@
   --embed-padding: 0 10px 0 24px !important;
   --file-folding-offset: 24px !important;
   --file-header-border: 1px solid transparent !important;
-  --file-header-font: "its-Bookerly", "Bookerly", Inter !important;
+  --file-header-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --file-header-font-size: 15px !important;
   --file-header-font-weight: 600 !important;
   --file-header-justify: center !important;
@@ -1554,26 +1554,26 @@
   --focus-ring-outline: 2px solid light-dark(#0060df, #0df) !important;
   --font-black: 900 !important;
   --font-bold: 700 !important;
-  --font-default: "its-Bookerly", "Bookerly", Inter !important;
+  --font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-extrabold: 800 !important;
   --font-extralight: 200 !important;
-  --font-interface: "its-Bookerly", "Bookerly", Inter !important;
+  --font-interface: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-interface-override: "??" !important;
   --font-interface-theme: "??" !important;
   --font-light: 300 !important;
   --font-medium: 500 !important;
-  --font-mermaid: "its-Bookerly", "Bookerly", Inter !important;
+  --font-mermaid: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-monospace: "its-Fira Code", "Fira Code", Inter !important;
   --font-monospace-override: "??" !important;
   --font-monospace-theme: "??" !important;
   --font-normal: 400 !important;
   --font-print: "its-Bookerly", "Bookerly", Inter, "Arial" !important;
-  --font-print-override: "its-Bookerly", "Bookerly", Inter !important;
+  --font-print-override: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-semibold: 600 !important;
   --font-small: 0.95em !important;
   --font-smaller: 0.9em !important;
   --font-smallest: 0.85em !important;
-  --font-text: "its-Bookerly", "Bookerly", Inter !important;
+  --font-text: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --font-text-override: "??" !important;
   --font-text-size: 16px !important;
   --font-text-theme: "??" !important;
@@ -1762,7 +1762,7 @@
   --metadata-input-background: transparent !important;
   --metadata-input-background-active: #06080c60 !important;
   --metadata-input-background-hover: transparent !important;
-  --metadata-input-font: "its-Bookerly", "Bookerly", Inter !important;
+  --metadata-input-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --metadata-input-font-size: 0.9em !important;
   --metadata-input-height: 28px !important;
   --metadata-input-longtext-lines: 3 !important;
@@ -1770,7 +1770,7 @@
   --metadata-label-background: transparent !important;
   --metadata-label-background-active: #06080c60 !important;
   --metadata-label-background-hover: transparent !important;
-  --metadata-label-font: "its-Bookerly", "Bookerly", Inter !important;
+  --metadata-label-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --metadata-label-font-size: 0.9em !important;
   --metadata-label-text-color: #97a1b9 !important;
   --metadata-label-text-color-hover: #97a1b9 !important;
@@ -1997,7 +1997,7 @@
   --table-header-border-color: #1a1e24 !important;
   --table-header-border-width: 1px !important;
   --table-header-color: #e5ebee !important;
-  --table-header-size: "its-Bookerly", "Bookerly", Inter !important;
+  --table-header-size: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --table-header-weight: 700 !important;
   --table-line-height: 1.3em !important;
   --table-row-alt-background: #06080c60 !important;
@@ -2153,7 +2153,7 @@
   --h6-border-color: #2e333d !important;
   --r-heading-color: #c14343 !important;
   --r-heading-text-transform: capitalize !important;
-  --r-main-font: "its-Bookerly", "Bookerly", Inter !important;
+  --r-main-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --folder-icon: "" !important;
   --kanban-lane-background: #232831 !important;
   --kanban-lane-border: 3px solid #0000008c !important;
@@ -2536,7 +2536,7 @@
   --statblock-box-shadow-color: #0000008c !important;
   --statblock-box-shadow-x-offset: 0 !important;
   --statblock-box-shadow-y-offset: 0 !important;
-  --statblock-content-font: "its-Bookerly", "Bookerly", Inter !important;
+  --statblock-content-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --statblock-content-font-size: 16px !important;
   --statblock-font-color: #bccad8 !important;
   --statblock-heading-font: "its-Draconis", "Draconis", Inter !important;
@@ -2591,7 +2591,7 @@
   --table-header-text-color: #c94d4d !important;
   --table-row-edit-font-size: 0.95em !important;
   --tag: #652121 !important;
-  --tag-font: "its-Bookerly", "Bookerly", Inter !important;
+  --tag-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",     "Microsoft YaHei Light", sans-serif !important;
   --tall: 700px !important;
   --td: #06080c60 !important;
   --text-dl: #e5ebee !important;
